@@ -113,5 +113,4 @@
 - 帧缓存写：`Frame_WR_Interface.v`
 - 帧缓存读：`Frame_RD_Interface.v`
 
-如需我补充 `video_proc_*` 的简单参考实现或添加仿真测试平台，请告诉我期望的模式与验证分辨率。
 
